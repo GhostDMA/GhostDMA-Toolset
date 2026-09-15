@@ -17,6 +17,11 @@ DMA Tool That Just Works, Some May Say the Best DMA Tool
 ---------------
 Release Notes
 
+---------------
+**Version 2.1**
+
+- Fixed A Critical Bug From Preventing Auto-Updates
+- Auto-driver Installer Hotfix
 
 ---------------
 **Version 2.0**
