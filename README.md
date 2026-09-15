@@ -21,7 +21,7 @@ Release Notes
 **Version 2.1**
 
 - Fixed A Critical Bug From Preventing Auto-Updates
-- Auto-driver Installer Hotfix
+- Driver Auto-Installer Hotfix
 
 ---------------
 **Version 2.0**
